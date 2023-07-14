@@ -24,7 +24,7 @@ This script performs a backup of a MySQL database, encrypts the backup files for
 2. Install the required Python packages by running the following command:
     pip install cryptography python-dotenv
 
-3. Create a `.env` file in the same directory as the script and set the following environment variables:
+3. Rename `template.env` file to `.env` file in the same directory as the script and set the following environment variables:
 - `DB_HOST`: MySQL database host address
 - `DB_USER`: MySQL database username
 - `DB_PASSWORD`: MySQL database password
