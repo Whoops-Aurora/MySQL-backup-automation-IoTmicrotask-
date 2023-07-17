@@ -1,5 +1,6 @@
 # OS-project
 # MySQL Database Backup Script for operating system course guided by Dr.Shrinivas Desai
+### crafted from scratch by Adwait,Amogh,Aman,Arfa
 
 This script performs a backup of a MySQL database, encrypts the backup files for security, and sends a notification email about the backup completion. It also includes optional features for starting and shutting down the MySQL database as well as scheduling the backup process.
 
