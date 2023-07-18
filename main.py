@@ -62,9 +62,9 @@ def send_notification_email():
     except Exception as e:
         print('Error sending email notification:', str(e))
 def main():
-    #Arfa: start_database()
-    #aman: backup_database()
-    #amogh:shutdown_database()
+    #Arfaa: start_database()
+    #Aman: backup_database()
+    #Amogh:shutdown_database()
     #Adwait: send_notification_email()
     send_notification_email()
 # Run the script
